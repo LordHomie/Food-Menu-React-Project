@@ -35,6 +35,25 @@
   .button:active .badge {
     background-color: #92320c;
   }
+
+  @media (max-width: 600px) {
+    .button {
+      width: 9rem;
+    }
+    .btnTitle {
+      font-size: 0.8rem;
+    }
+    .icon {
+      display: none;
+    }
+  }
+
+  @media (max-width: 400px) {
+    .button {
+      width: 7rem;
+      margin-left: 1rem;
+    }
+  }
   
   .bump {
     animation: bump 300ms ease-out;
