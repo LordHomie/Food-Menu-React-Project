@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/food-menu-react-project/static/css/main.83ea8b0d.chunk.css",
+    "main.js": "/food-menu-react-project/static/js/main.627ca64a.chunk.js",
+    "main.js.map": "/food-menu-react-project/static/js/main.627ca64a.chunk.js.map",
+    "runtime-main.js": "/food-menu-react-project/static/js/runtime-main.86c35d2c.js",
+    "runtime-main.js.map": "/food-menu-react-project/static/js/runtime-main.86c35d2c.js.map",
+    "static/js/2.1f635451.chunk.js": "/food-menu-react-project/static/js/2.1f635451.chunk.js",
+    "static/js/2.1f635451.chunk.js.map": "/food-menu-react-project/static/js/2.1f635451.chunk.js.map",
+    "index.html": "/food-menu-react-project/index.html",
+    "static/css/main.83ea8b0d.chunk.css.map": "/food-menu-react-project/static/css/main.83ea8b0d.chunk.css.map",
+    "static/js/2.1f635451.chunk.js.LICENSE.txt": "/food-menu-react-project/static/js/2.1f635451.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/food-menu-react-project/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86c35d2c.js",
+    "static/js/2.1f635451.chunk.js",
+    "static/css/main.83ea8b0d.chunk.css",
+    "static/js/main.627ca64a.chunk.js"
+  ]
+}
